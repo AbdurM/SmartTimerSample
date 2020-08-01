@@ -1,5 +1,7 @@
 Weekend 005 of #WeekendMobileUIChallenge. 
 
+![alt text](https://github.com/AbdurM/SmartTimerSample/blob/master/TimerNeuMorphic.jpeg)
+
 
 Xamarin controls used:
 
